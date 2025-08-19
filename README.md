@@ -48,7 +48,8 @@ php artisan db:seed
 - MySQL8.0.26
 
 ## ER図
-![Contributionguidelines for this project](index.drawio.png)
+/Users/kaneshiren/coachtech/pigly/pigly/index.drawio.png
+
 
 ## URL
 - 開発環境：http://localhost/  
